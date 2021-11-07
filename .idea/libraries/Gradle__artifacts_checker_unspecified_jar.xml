@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:checker:unspecified@jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/checker/build/.transforms/e0e73ffe2ec00272a6da3c70fff0f360/jetified-app-debug/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/checker/build/.transforms/e0e73ffe2ec00272a6da3c70fff0f360/jetified-app-debug/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/checker/build/.transforms/e0e73ffe2ec00272a6da3c70fff0f360/jetified-app-debug/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
